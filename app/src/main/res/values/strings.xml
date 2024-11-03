@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EcoBazaar</string>
+    <string name="browse_items">Browse Items</string>
+    <string name="search">Search</string>
+    <string name="order_history">Order History</string>
+    <string name="view_sales">View Sales</string>
+    <string name="manage_listings">Manage Listings</string>
+    <string name="upload_item">Upload Item</string>
+    <string name="buyer_login">Buyer Login</string>
+    <string name="seller_login">Seller Login</string>
+</resources>
